@@ -1,0 +1,7 @@
+numpy
+pandas
+xgboost
+scikit-learn
+scipy
+torch
+pytorch_tabnet
